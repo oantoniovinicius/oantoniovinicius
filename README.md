@@ -1,5 +1,5 @@
-### Olá, sou Antônio Vinicius! 👋
-##
+### Yo 👋 my name's Antônio Vinicius! :D
+###
 Estatísticas de Perfil
 <div align="center">
   <a href="https://github.com/oantoniovinicius">
