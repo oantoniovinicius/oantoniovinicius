@@ -1,6 +1,6 @@
 ### Hi! 🤠 My name's Antônio Vinicius! 🗿🍷
 
-<img align="center" width="400" alt="GIF" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-165.gif" >
+<img align="center" width="400" alt="GIF" src="[https://www.icegif.com/wp-content/uploads/2022/01/icegif-165.gif](https://media4.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=790b76114ff450fe7b33b4b04305967551ef469a025dd9cb&rid=giphy.gif&ct=g)" >
 
 ### Estatísticas de Perfil
 <div align="center">
