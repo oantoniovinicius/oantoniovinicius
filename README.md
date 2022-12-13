@@ -1,4 +1,4 @@
-### Yo 👋 my name's Antônio Vinicius! :D
+### Hi! 🤠 My name's Antônio Vinicius! 🗿🍷
 
 <img align="center" width="400" alt="GIF" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-165.gif" >
 
