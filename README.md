@@ -1,8 +1,8 @@
-### Hi! 🤠 My name's Antônio Vinicius! 🗿🍷
+### Hi!  My name's Antônio Vinicius! 🗿🍷
 
 <img align="top-center" width="300" alt="GIF" src="https://media.tenor.com/GzKnki4pyHUAAAAC/leonardo-di-caprio-cheers-to-all.gif" >
 
-### Estatísticas de Perfil
+### Profile stats
 <div align="center">
   <a href="https://github.com/oantoniovinicius">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=oantoniovinicius&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,7 @@
 </div>
   
 ##
-### Linguagens
+### Languages
   <div style="display: inline_block"><br>
   <img align="center" alt="oantoniovinicius_Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="oantoniovinicius_JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
