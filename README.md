@@ -8,7 +8,8 @@ Estatísticas de Perfil
 </div>
   
 ##
-<div style="display: inline_block"><br>
+### Linguagens
+  <div style="display: inline_block"><br>
   <img align="center" alt="oantoniovinicius_Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="oantoniovinicius_JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="oantoniovinicius_C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
