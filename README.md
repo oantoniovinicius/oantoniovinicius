@@ -6,7 +6,8 @@
   <img align="top-center" width="400" padding: 20% 0 alt="GIF" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" >
 </div>
 
-### Profile stats
+## Profile stats
+##
 <div align="center">
   <a href="https://github.com/oantoniovinicius">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oantoniovinicius&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -14,7 +15,7 @@
 </div>
   
 ##
-### Main Skills:
+## Main Skills:
   <div style="display: inline_block"><br>
   <img align="center" alt="oantoniovinicius_Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="oantoniovinicius_C++" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
