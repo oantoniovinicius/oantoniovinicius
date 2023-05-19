@@ -6,8 +6,8 @@
   <img align="top-center" width="400" padding: 20% 0 alt="GIF" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" >
 </div>
 
-## Profile stats
 #
+## Profile stats
 <div align="center">
   <a href="https://github.com/oantoniovinicius">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oantoniovinicius&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
