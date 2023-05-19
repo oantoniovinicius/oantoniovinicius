@@ -12,8 +12,8 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oantoniovinicius&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oantoniovinicius&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
-##
-  
+
+#  
 ## Main Skills:
   <div style="display: inline_block"><br>
     <img align="center" alt="oantoniovinicius_Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
