@@ -1,6 +1,8 @@
 ### Hello There! 🙂
 
-<img align="top-center" width="400" alt="GIF" src="https://media.tenor.com/GzKnki4pyHUAAAAC/leonardo-di-caprio-cheers-to-all.gif" >
+<div align="center">
+  <img align="top-center" width="400" alt="GIF" src="https://media.tenor.com/GzKnki4pyHUAAAAC/leonardo-di-caprio-cheers-to-all.gif" >
+</div>
 
 ### Profile stats
 <div align="center">
