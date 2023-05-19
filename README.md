@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;My+name+is+Antonio+Vinicius;I'm+20+years+old;I'm+from+Brazil;I+Am+Graduating+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img align="top-center" width="400" padding: 20% 0 alt="GIF" src="https://media.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" >
+  <img align="top-center" width="400" padding: 20% 0 alt="GIF" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" >
 </div>
 
 ### Profile stats
