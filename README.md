@@ -12,11 +12,11 @@
 ##
 ### Main Skills:
   <div style="display: inline_block"><br>
-  ![Java]<img align="center" alt="oantoniovinicius_Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  ![C++]<img align="center" alt="oantoniovinicius_C++" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  ![HTML]<img align="center" alt="oantoniovinicius_HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  ![CSS]<img align="center" alt="oantoniovinicius_CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  ![JavaScript]<img align="center" alt="oantoniovinicius_JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="oantoniovinicius_Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="oantoniovinicius_C++" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="oantoniovinicius_HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="oantoniovinicius_CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="oantoniovinicius_JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
 </div>
   
