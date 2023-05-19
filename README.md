@@ -29,3 +29,9 @@
  
 </div>
   
+<div align="center">
+
+  ![Snake animation](https://github.com/oantoniovinicius/oantoniovinicius/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+  
