@@ -14,14 +14,8 @@
 </div>
 
 #  
-## Main Skills:
-  <div style="display: inline_block"><br>
-    <img align="center" alt="oantoniovinicius_Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="oantoniovinicius_C++" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="oantoniovinicius_CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
-## Still learning:
+
+## Skills:
    <div style="display: inline_block"><br>
     <img align="center" alt="oantoniovinicius_Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="oantoniovinicius_C++" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
