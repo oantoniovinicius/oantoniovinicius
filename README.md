@@ -22,8 +22,8 @@
     <img align="center" alt="oantoniovinicius_HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="oantoniovinicius_CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="oantoniovinicius_JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="oantoniovinicius_Python" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="oantoniovinicius_Django" height="30" width="50" src="https://static-00.iconduck.com/assets.00/django-icon-402x512-tkdfpj8s.png">
+    <img align="center" alt="oantoniovinicius_Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="oantoniovinicius_Django" height="30" width="30" src="https://static-00.iconduck.com/assets.00/django-icon-402x512-tkdfpj8s.png">
     <img align="center" alt="oantoniovinicius_PostgreSQL" height="30" width="50" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
   </div>
   
