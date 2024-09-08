@@ -17,15 +17,13 @@
 
 ## Skills:
    <div style="display: inline_block"><br>
-    <img align="center" alt="oantoniovinicius_Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img src="https://img.shields.io/badge/-Java-%23333?style=for-the-badge&logo=java&logoColor=red" target="_blank"></a>
-    <img align="center" alt="oantoniovinicius_C++" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="oantoniovinicius_HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="oantoniovinicius_CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="oantoniovinicius_JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="oantoniovinicius_Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="oantoniovinicius_Django" height="30" width="30" src="https://static-00.iconduck.com/assets.00/django-icon-402x512-tkdfpj8s.png">
-    <img align="center" alt="oantoniovinicius_PostgreSQL" height="30" width="50" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
+     <img align=center alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+     <img align=center alt="python"  src="https://img.shields.io/badge/Python-EBD801?style=for-the-badge&logo=python&logoColor=black">
+     <img align=center alt="django"  src="https://img.shields.io/badge/django-2AE1EB?style=for-the-badge&logo=django&logoColor=white">
+     <img align=center alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+     <img align=center alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+     <img align=center alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+     <img align=center alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </div>
   
 ## Social:
