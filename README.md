@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f3ace&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;My+name+is+Antonio+Vinicius;I'm+21+years+old;I'm+from+Brazil;I+Am+Graduating+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f3ace&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;My+name+is+Antonio+Vinicius;I'm+21+years+old;I'm+from+Brazil;I+am+graduating+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img align="top-center" width="400" padding: 20% 0 alt="GIF" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" >
