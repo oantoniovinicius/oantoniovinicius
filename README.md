@@ -1,36 +1,66 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=header"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=header" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f3ace&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;My+name+is+Antonio+Vinicius;I'm+21+years+old;I'm+from+Brazil;I+am+graduating+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[**English version // Versão em inglês**](README-en.md)
+
+---
+
+
 
 <div align="center">
-  <img align="top-center" width="400" padding: 20% 0 alt="GIF" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" >
+  <img height="200" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" />
+
+  **Desenvolvedor Backend** focado em Java, Spring Boot e sistemas distribuídos.  
+  Experiência com microsserviços, arquitetura hexagonal e event-driven architecture.
 </div>
 
-## Profile stats:
 <div align="center">
-  <a href="https://github.com/oantoniovinicius">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oantoniovinicius&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oantoniovinicius&layout=compact&langs_count=7&theme=material-palenight"/>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=7F3ACE)](mailto:devantoniovinicius@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7F3ACE)](https://www.linkedin.com/in/antoniovinicius/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=7F3ACE)](https://github.com/oantoniovinicius)
+
 </div>
 
-#  
+---
 
-## Skills:
-   <div style="display: inline_block"><br>
-     <img align=center alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-     <img align=center alt="java"  src="https://img.shields.io/badge/Spring%20boot-383838?style=for-the-badge&logo=spring&logoColor=green">
-     <img align=center alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-     <img align=center alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-     <img align=center alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-     <img align=center alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </div>
-  
-## Social:
-  
- <div> 
-  <a href = "mailto:devantoniovinicius@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antoniovinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div align="center">
+
+## ⚙️ Tech Stack
+
+| Backend | Banco de Dados & Mensageria | DevOps & Ferramentas |
+| :---: | :---: | :---: |
+| [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgresql,rabbitmq)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,git,github,maven,postman,idea)](https://skillicons.dev) |
+
 </div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=footer"/>
+
+---
+
+<div align="center">
+
+## 🚀 Projetos
+
+</div>
+
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| **[RiskGuard](https://github.com/oantoniovinicius/risk-guard)** | Plataforma antifraude orientada a eventos com 32 endpoints, 7 bounded contexts, arquitetura hexagonal e mensageria assíncrona com RabbitMQ. | `Java`, `Spring Boot`, `RabbitMQ`, `PostgreSQL`, `Docker` |
+| **[Wallet Transfer API](https://github.com/oantoniovinicius/wallet-transfer-api)** | API de pagamentos com transferência de fundos, controle transacional e integração com serviços externos de autorização e notificação. | `Java`, `Spring Boot`, `PostgreSQL`, `Docker` |
+| **[TaskManager API](https://github.com/oantoniovinicius/taskmanager-api)** | API REST com 12 endpoints, autenticação JWT stateless e autorização baseada em função (RBAC) com Spring Security. | `Java`, `Spring Boot`, `PostgreSQL`, `Spring Security` |
+| **[d-Lemma](https://github.com/oantoniovinicius/d-lemma)** | Plataforma de discussão colaborativa com 16 endpoints, sistema de convites com 3 estados e recuperação de senha com tokens expiráveis. | `Java`, `Spring Boot`, `PostgreSQL`, `Spring Security` |
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oantoniovinicius&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oantoniovinicius&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&hide=html,css" />
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=footer" />
+</div>
