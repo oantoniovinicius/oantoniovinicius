@@ -6,8 +6,7 @@
 [![English Version](https://img.shields.io/badge/🌐_English_Version-7F3ACE?style=for-the-badge)](README-en.md)
 
 ---
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F5F5&width=435&lines=Olá%2C+me+chamo+Antonio!)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" />
