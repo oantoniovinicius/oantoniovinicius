@@ -2,9 +2,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=header" />
 </div>
 
-[**Versão em português // Portuguese version**](README.md)
+
+[![Versão em Português](https://img.shields.io/badge/🌐_Versão_em_Português-7F3ACE?style=for-the-badge)](README.md)
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F5F5&width=435&lines=Hello%2C+my+name+is+Antonio!)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" />
