@@ -2,7 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=header" />
 </div>
 
-[**English version // Versão em inglês**](README-en.md)
+
+[![English Version](https://img.shields.io/badge/🌐_English_Version-7F3ACE?style=for-the-badge)](README-en.md)
 
 ---
 
