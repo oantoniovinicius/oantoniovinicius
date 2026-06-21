@@ -48,7 +48,7 @@
 | **[RiskGuard](https://github.com/oantoniovinicius/risk-guard)** | Plataforma antifraude orientada a eventos com 32 endpoints, 7 bounded contexts, arquitetura hexagonal e mensageria assíncrona com RabbitMQ. | `Java`, `Spring Boot`, `RabbitMQ`, `PostgreSQL`, `Docker` |
 | **[Wallet Transfer API](https://github.com/oantoniovinicius/wallet-transfer-api)** | API de pagamentos com transferência de fundos, controle transacional e integração com serviços externos de autorização e notificação. | `Java`, `Spring Boot`, `PostgreSQL`, `Docker` |
 | **[TaskManager API](https://github.com/oantoniovinicius/taskmanager-api)** | API REST com 12 endpoints, autenticação JWT stateless e autorização baseada em função (RBAC) com Spring Security. | `Java`, `Spring Boot`, `PostgreSQL`, `Spring Security` |
-| **[d-Lemma](https://github.com/oantoniovinicius/d-lemma)** | Plataforma de discussão colaborativa com 16 endpoints, sistema de convites com 3 estados e recuperação de senha com tokens expiráveis. | `Java`, `Spring Boot`, `PostgreSQL`, `Spring Security` |
+| **[d-Lemma](https://github.com/Velha-Guarda/d-lemma-backend)** | Plataforma de discussão colaborativa com 16 endpoints, sistema de convites com 3 estados e recuperação de senha com tokens expiráveis. | `Java`, `Spring Boot`, `PostgreSQL`, `Spring Security` |
 
 ---
 
